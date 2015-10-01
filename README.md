@@ -1,2 +1,0 @@
-# TaleOfTales
-Game of Middleage
